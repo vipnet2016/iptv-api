@@ -1,0 +1,10 @@
+频道分类,#genre#
+cctv-1
+cctv-2
+cctv-3
+cctv-4
+cctv-5
+
+自建频道,#genre#
+自定义频道1
+自定义频道2,http://xxx$!白名单测速
